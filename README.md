@@ -5,7 +5,7 @@ Make at least one commit each day of [commit]ment week to any project on Github.
 
 All projects worked on can also be optionally added to a [Purdue Hackers][Purdue Hackers] [commit]ment week repository as a submodule -- think of this as a reference to another repository (your own in this case) -- so everyone can view one anothers progress! 
 
-[commit]ment week will begin April 10th and end on April 16th. For more info check out the [facebook event][]. 
+[commit]ment week will begin April 10th and end on April 16th. For more info check out the [facebook event][fb].
 
 ### Adding your project to the repository 
 #### Clone  
